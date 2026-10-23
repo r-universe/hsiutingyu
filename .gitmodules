@@ -5,3 +5,7 @@
 [submodule "silentema"]
 	path = silentema
 	url = https://github.com/hsiutingyu/silentema
+[submodule "umg"]
+	path = umg
+	url = https://github.com/hsiutingyu/umg
+	subdir = umg
